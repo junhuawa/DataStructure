@@ -1,0 +1,47 @@
+Push 19
+Push 18
+Push 17
+Push 16
+Push 15
+Push 14
+Push 13
+Push 12
+Push 11
+Push 10
+Inject 9
+Inject 8
+Inject 7
+Inject 6
+Inject 5
+Inject 4
+Inject 3
+Inject 2
+Inject 1
+Inject 0
+Push 20
+Inject 100
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+Pop
+Eject
+end

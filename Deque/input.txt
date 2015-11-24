@@ -1,0 +1,9 @@
+Pop
+Inject 1
+Pop
+Eject
+Push 1
+Push 2
+Eject
+Inject 3
+End
