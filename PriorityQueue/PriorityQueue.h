@@ -1,7 +1,12 @@
 #ifndef __PRIORITY_QUEUE_H__
 #define __PRIORITY_QUEUE_H__
 
-typedef int ElementType;
+struct vertex {
+    int x;
+    int y;
+};
+
+typedef struct vertex ElementType;
 typedef struct HeapStruct *PriorityQueue;
 
 PriorityQueue Initialize( int MaxElements ); 
